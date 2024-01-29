@@ -1,4 +1,4 @@
-package com.xotoboil.springboot.restapiboilerplate.user;
+package com.xotoboil.springboot.xotoboilspringrest.user;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
@@ -6,7 +6,6 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import java.net.URI;
 import java.util.List;
-import java.util.Objects;
 
 @RestController
 public class UserResource {

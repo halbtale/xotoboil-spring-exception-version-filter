@@ -1,4 +1,4 @@
-package com.xotoboil.springboot.restapiboilerplate.user;
+package com.xotoboil.springboot.xotoboilspringrest.user;
 
 import java.time.LocalDate;
 

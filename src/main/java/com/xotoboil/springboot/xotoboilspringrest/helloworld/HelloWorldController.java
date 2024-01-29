@@ -1,4 +1,4 @@
-package com.xotoboil.springboot.restapiboilerplate.helloworld;
+package com.xotoboil.springboot.xotoboilspringrest.helloworld;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

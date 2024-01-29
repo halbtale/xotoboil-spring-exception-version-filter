@@ -1,4 +1,4 @@
-package com.xotoboil.springboot.restapiboilerplate.exception;
+package com.xotoboil.springboot.xotoboilspringrest.exception;
 
 import java.time.LocalDateTime;
 

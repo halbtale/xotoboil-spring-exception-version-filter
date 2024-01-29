@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.xotoboil.springboot</groupId>
-	<artifactId>rest-api-boilerplate</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>rest-api-boilerplate</name>
+	<artifactId>xotoboil-spring-rest</artifactId>
+	<version>0.0.1</version>
+	<name>xotoboil-spring-rest</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>21</java.version>

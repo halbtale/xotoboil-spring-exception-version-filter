@@ -1,6 +1,6 @@
-package com.xotoboil.springboot.restapiboilerplate.exception;
+package com.xotoboil.springboot.xotoboilspringrest.exception;
 
-import com.xotoboil.springboot.restapiboilerplate.user.UserNotFoundException;
+import com.xotoboil.springboot.xotoboilspringrest.user.UserNotFoundException;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.ControllerAdvice;

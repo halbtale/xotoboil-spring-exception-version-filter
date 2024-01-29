@@ -1,4 +1,4 @@
-package com.xotoboil.springboot.restapiboilerplate.helloworld;
+package com.xotoboil.springboot.xotoboilspringrest.helloworld;
 
 public class HelloWorldBean {
     private String message;
