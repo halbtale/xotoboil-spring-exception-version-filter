@@ -1,10 +1,10 @@
-package com.xotoboil.springboot.restapiboilerplate;
+package com.xotoboil.springboot.xotoboilspringrest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class RestApiBoilerplateApplicationTests {
+class XotoboilSpringRestTests {
 
 	@Test
 	void contextLoads() {
