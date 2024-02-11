@@ -24,8 +24,6 @@ public class UserResource {
         return service.findAll();
     }
 
-
-
     @GetMapping("/users/{id}")
     public EntityModel<User> retrieveUser(@PathVariable int id) {
         User user = service.findOne(id);
