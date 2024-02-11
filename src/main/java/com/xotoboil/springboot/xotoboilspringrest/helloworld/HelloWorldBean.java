@@ -2,7 +2,9 @@ package com.xotoboil.springboot.xotoboilspringrest.helloworld;
 
 public class HelloWorldBean {
     private String message;
+
     public HelloWorldBean(String message) {
+
         this.message = message;
     }
 
